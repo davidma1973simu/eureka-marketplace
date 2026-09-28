@@ -1,0 +1,34 @@
+{
+  "name": "eureka-marketplace",
+  "description": "Eureka 创新方法论官方市场 · 创新专家团与 8 个创新 Skill",
+  "description_en": "Eureka Innovation Methodology marketplace: an 8-expert innovation team and 8 innovation skills covering the full RISE journey.",
+  "owner": {
+    "name": "Eureka Lab",
+    "email": "870982039@qq.com"
+  },
+  "plugins": [
+    {
+      "name": "eureka-innovation-team",
+      "description": "Eureka 创新教练团：8 位创新专家陪你走完全旅程——选题、洞察、创意、方案、价值、验证、呈现、商业模式。",
+      "description_en": "Eureka Innovation Team: 8 specialized experts guiding the full innovation journey from ideation to business model.",
+      "version": "1.0.0",
+      "source": "./plugins/eureka-innovation-team",
+      "author": {
+        "name": "Eureka Lab",
+        "email": "870982039@qq.com"
+      },
+      "license": "MIT",
+      "category": "innovation",
+      "keywords": [
+        "创新",
+        "创新方法论",
+        "用户洞察",
+        "商业模式",
+        "innovation",
+        "design thinking",
+        "RISE"
+      ],
+      "homepage": "https://davidma1973simu.github.io/eureka-hub/"
+    }
+  ]
+}
